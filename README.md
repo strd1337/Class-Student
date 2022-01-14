@@ -1,0 +1,2 @@
+# Class-Student
+Create a student class that has a name, major, year of study, and average score. Define the functions of setting, changing data, comparing. For a job text fields use the new operator. Define constructors, destructor and other features. Create a class group containing students (unlimited number). Define methods for inserting, deleting students, determining the average score by group, constructors, destructors, and other necessary functions.
